@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kishore
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Html
-- 💞️ I’m looking to collaborate on Html web designing 
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 react me @kishorekumar888.kk@gmail.com
 
 <!---
